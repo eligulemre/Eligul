@@ -1,2 +1,2 @@
-# hype
+# Eligul
 Eligul Library
