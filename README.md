@@ -1,5 +1,5 @@
 # Kütüphane
-Eligul Library
+Hype Library
 
 <pre>
 var css = document.createTextNode(
