@@ -1,7 +1,7 @@
 # Kütüphane
 Eligul Library
 
-<pre>
+<div class="highlight">
 var css = document.createTextNode(
 "#bio_ep_bg {display: none; cursor:pointer; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: #000; opacity: 0.85; z-index: 10001;}" +
 "#bio_ep {display: none; position: fixed; width: " + this.width + "px; height: " + this.height + "px; font-family: 'Titillium Web', sans-serif; font-size: 16px; left: 50%; top: 50%; transform: translateX(-50%) translateY(-50%); -webkit-transform: translateX(-50%) translateY(-50%); -ms-transform: translateX(-50%) translateY(-50%); background-color: none; z-index: 10002;}" +
@@ -9,4 +9,4 @@ var css = document.createTextNode(
 this.css
 );
   
-</pre>
+</div>
